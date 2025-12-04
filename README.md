@@ -10,7 +10,7 @@ I like digging into data to find answers to the important questions in life, lik
 
 ---
 
-## 🧐 What I'm actually doing (besides surviving the apocalypse)
+### 🧐 What I'm actually doing (besides surviving the apocalypse)
 While my academic focus is on advanced Machine Learning, I believe that to truly master AI, one must understand the underlying systems that power it. This is why my portfolio is a hybrid of **Data Science** (constructing pipelines, NLP, and predictive modeling) and **Systems Engineering** (building low-level tools in C and Java).
 
 Whether I am optimizing SQL queries for large-scale customer databases at **E&** or working on cloud infrastructure at **Orange**, my goal is always the same: to build robust, reproducible, and explainable solutions. The projects below represent my journey in bridging the gap between abstract algorithms and real-world application.
