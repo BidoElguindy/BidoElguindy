@@ -11,50 +11,45 @@ I like digging into data to find answers to the important questions in life, lik
 ---
 
 ## 🧐 What I'm actually doing (besides surviving the apocalypse)
-I bridge the gap between heavy math and real-world deployment. I’ve worked on everything from low-level memory management in C to high-level NLP models.
+While my academic focus is on advanced Machine Learning, I believe that to truly master AI, one must understand the underlying systems that power it. This is why my portfolio is a hybrid of **Data Science** (constructing pipelines, NLP, and predictive modeling) and **Systems Engineering** (building low-level tools in C and Java).
 
-## 🧪 The Data Lab (AI & ML)
-
-### 🧟‍♂️ The Survival Guide: Where to hide during an Apocalypse? (2025)
-> *Because you can't fight zombies without good data.*
-* **The Mission:** Built an end-to-end data science pipeline to mathematically determine the best location to survive a global collapse.
-* **The Tech:** Full pipeline from problem framing to deployment.
-
-### 🧠 DIY Neural Network (2025)
-> *Why import `torch` when you can build it?*
-* **The Mission:** Implemented a Neural Network from scratch, inspired by the early logic of PyTorch, to understand the raw math behind the magic.
-
-### 🎲 Explainable Board Game Recommender (2025)
-> *No more fighting over what to play next.*
-* **The Mission:** Constructed a recommendation system using a database of reviews from a specialized board game website.
-* **Focus:** Explainability telling the user *why* they would like the game.
-
-### 🗣️ NLP: Politics & Cinema (2024)
-> *Analyzing words that change the world (and movie tickets).*
-* **The Mission:** Developed NLP models for two distinct tasks:
-    1.  Distinguishing between political quotes.
-    2.  Sentiment analysis of movie reviews.
+Whether I am optimizing SQL queries for large-scale customer databases at **E&** or working on cloud infrastructure at **Orange**, my goal is always the same: to build robust, reproducible, and explainable solutions. The projects below represent my journey in bridging the gap between abstract algorithms and real-world application.
 
 ---
 
-## 🛠️ The Engineering Workshop (Systems & Web)
+### 🧪 The Data Lab (AI & ML)
 
-### 💾 Git-Inception: Version Control in C (2023)
-> *I used Git to build Git.*
-* **The Mission:** A "Git-like" version control software written purely in **C**.
-* **The Code:** Handles file manipulation via Work Trees, commit management, and versioning systems under the hood.
+**🧟‍♂️ The Apocalypse Survival Guide**
+> `Python` `Data Pipeline` `Deployment`
+> An end-to-end data science pipeline designed to answer a critical question: *Where is the statistically best place to survive a global collapse?* From problem framing to final model deployment.
 
-### 🌐 Full-Stack Forum (2024)
-> *Bringing people together, async.*
-* **The Mission:** Developed a fully functional forum application.
-* **The Stack:** JavaScript, Node.js, React, Express, and MongoDB.
+**🧠 DIY Neural Network**
+> `Python` `NumPy` `Math`
+> Implementation of a Neural Network from scratch without using Deep Learning libraries. Inspired by early versions of PyTorch to understand the raw calculus behind backpropagation.
 
-### 🦁 Ecosystems: The Simulation (2022)
-> *Survival of the fittest, coded twice.*
-* **The Mission:** Simulated two biological ecosystems complete with prey and predators.
-* **The Twist:** Implemented the simulation twice—once in **Java** and once in **C**—to compare performance and logic.
+**🎲 Explainable Board Game Recommender**
+> `Data Science` `Explainable AI`
+> A recommendation engine built on a database of board game reviews. Focuses on "Explainability"—telling the user *why* a specific game was suggested based on feature engineering.
+
+**🗣️ NLP: Politics & Cinema**
+> `NLP` `Sentiment Analysis`
+> Developed models for two distinct tasks: distinguishing between political quotes and analyzing sentiment in movie reviews.
 
 ---
+
+### 🛠️ The Engineering Workshop (Systems & Web)
+
+**💾 Git-Inception: Version Control in C**
+> `C` `Systems Programming` `Algorithms`
+> A "Git-like" version control software written purely in C. It handles file manipulation via Work Trees, commit management, and versioning systems under the hood.
+
+**🌐 Full-Stack Forum**
+> `React` `Node.js` `MongoDB` `Express`
+> A fully functional discussion platform. Handles user authentication, posts, and real-time updates using the MERN stack.
+
+**🦁 Ecosystems: The Simulation**
+> `Java` `C` `Simulation`
+> A biological simulation of prey and predators. I implemented the exact same logic twice—once in **Java** and once in **C**—to benchmark performance differences between the languages.
 
 ---
 
